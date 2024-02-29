@@ -25,7 +25,7 @@ suc_channel.html is my little implementation of this, its very basic
 and i used a html template i worked on for another project because i 
 liked the color layout, 
 
-screenshot of how it looks inside a <pre> element processed with ansi_up.js
+screenshot of how it looks inside a pre element processed with ansi_up.js
 ![](preview.jpg)
 
 
